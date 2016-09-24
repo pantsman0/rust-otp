@@ -1,0 +1,22 @@
+[package]
+name = "rust-otp"
+version = "0.1.0"
+authors = ["Philip Woolford <woolford.philip@gmail.com>"]
+keywords = ["otp", "totp", "hotp", "authentication", "2-factor"]
+description = "Pure rust implementation of Hash- and Time-based One Time Passwords in Rust."
+license-file = "LICENSE"
+repository = "https://github.com/pantsman0/rust-otp"
+
+include = [
+    "**/*.rs",
+    "LICENSE",
+    "Cargo.toml",
+    ]
+
+[lib]
+name = "otp"
+path = "src/lib.rs"
+
+[dependencies]
+time = "^0.1"
+hmac-sha1 = "*"

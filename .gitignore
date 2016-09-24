@@ -1,0 +1,7 @@
+#IntelliJ IDEA
+.idea/
+rust-otp.iml
+
+#Rust resources
+target/
+Cargo.lock
