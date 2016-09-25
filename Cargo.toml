@@ -1,5 +1,5 @@
 [package]
-name = "rust-otp"
+name = "otp"
 version = "0.1.0"
 authors = ["Philip Woolford <woolford.philip@gmail.com>"]
 keywords = ["otp", "totp", "hotp", "authentication", "2-factor"]
