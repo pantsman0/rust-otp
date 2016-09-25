@@ -1,7 +1,7 @@
 # Rust-OTP
 
-[![Build Status](https://travis-ci.org/pantsman0/rust-rust-otp.png?branch=master)](https://github.com/pantsman0/rust-otp)
-![creates.io version](https://img.shields.io/crates/v/rust-otp.svg)
+[![Build Status](https://travis-ci.org/pantsman0/rust-otp.png?branch=master)](https://github.com/pantsman0/rust-otp)
+![creates.io version](https://img.shields.io/crates/v/otp.svg)
 
 A pure rust implementation for HOTP (RFC 4226) and TOTP(RFC 6238).
 
