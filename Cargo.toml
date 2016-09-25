@@ -19,4 +19,4 @@ path = "src/lib.rs"
 
 [dependencies]
 time = "^0.1"
-hmac-sha1 = "*"
+hmac-sha1 = "^0.1"
